@@ -24,7 +24,7 @@ Example:
 # If you want to override the current Bing market dectection,
 # set your preferred market here. For a list of markets, see
 # https://msdn.microsoft.com/en-us/library/dd251064.aspx
-area = 'bg-BG'
+area = 'bg-BG' 
 ```
 
 To force your area to be 'bg-BG' (Bulgarian - Bulgaria).
